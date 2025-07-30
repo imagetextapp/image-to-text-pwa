@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.blogspot.imagetotextconvertorapp.twa",
+        "sha256_cert_fingerprints": ["9F:B6:4B:C6:3E:B6:4A:E1:18:59:16:0D:83:05:7C:AB:47:60:E1:EE:FF:E8:BB:C0:53:EE:EA:82:01:CA:B2:4F"]
+      }
+    }]
